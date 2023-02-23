@@ -7,9 +7,9 @@ vpc_cidr           = "10.11.0.0/16"
 public_subnet_cidr = "10.11.1.0/24"
 
 # AWS Settings
-aws_access_key = "complete-this"
-aws_secret_key = "complete-this"
-aws_region     = "eu-west-1"
+aws_access_key = "AKIA32VK2JGV2B4HHF4Y"
+aws_secret_key = "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"
+aws_region     = "us-east-1"
 
 # Windows Virtual Machine
 windows_instance_name               = "kopiwinsrv01"
